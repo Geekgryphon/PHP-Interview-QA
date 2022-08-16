@@ -268,3 +268,6 @@
 作者：凌枫 Email：colinlets@gmail.com
 
 链接：https://github.com/colinlet/PHP-Interview-QA
+
+其他乾貨連結
+https://www.techug.com/post/php-interview-tips/
